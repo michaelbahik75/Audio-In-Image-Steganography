@@ -1,1 +1,2 @@
 # Audio-In-Image-Steganography
+This project hides the secret audio information by generating RGB image of secret audio information. Here we are using .WAV audio file format. By using raw data of audio information, we generate an RGB image. The generated image will contain the audio information without losing its information. The generated image is sent to destination with the help of private or public communication network. On the other side, receiver download the generated image using the software and retrieve the secret audio information.
